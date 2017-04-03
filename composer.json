@@ -1,5 +1,5 @@
 {
-    "name": "0xDB/yii-sentry",
+    "name": "0xdb/yii-sentry",
     "description": "Sentry for the Yii PHP framework.",
     "keywords": ["yii", "sentry", "log", "error", "exception"],
     "type": "library",
